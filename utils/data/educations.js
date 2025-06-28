@@ -10,11 +10,11 @@ export const educations = [
     title: "Cyber Red Team (Threat Analyst and Penetration Tester)",
     duration: "2024 - 2024",
     institution: "Metrodata Academy",
-  }
+  },
   {
     id: 3,
     title: "Backend Java",
     duration: "2023 - 2023",
     institution: "Binar Academy",
-  },
+  }
 ]

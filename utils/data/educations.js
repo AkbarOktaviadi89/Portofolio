@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2021 - 2025",
+    institution: "Universitas Teknokrat Indonesia",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
+    title: "Computer and Network Engineering",
+    duration: "2018 - 2021",
     institution: "Noakhali Islamia Kamil Madrasah",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Cyber Red Team (Threat Analyst and Penetration Tester)",
+    duration: "2024 - 2024",
+    institution: "Metrodata Academy",
   }
 ]

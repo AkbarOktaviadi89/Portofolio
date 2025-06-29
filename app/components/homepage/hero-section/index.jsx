@@ -129,7 +129,7 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Postgresql</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">System Administration</span>
+                <span className="text-amber-300">Linux System Administration</span>
                 {/* <span className="text-gray-400">{"', '"}</span> */}
                 {/* <span className="text-amber-300">AWS</span> */}
                 <span className="text-gray-400">{"'],"}</span>

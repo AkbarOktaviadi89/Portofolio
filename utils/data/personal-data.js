@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Akbar Oktaviadi",
-  profile: '/profile.jpeg',
+  profile: '/profile.png',
   designation: "Website Developer & Cybersecurity Enthusiast",
   description: "My name is Akbar Oktaviadi. I am an enthusiastic programmer and cybersecurity enthusiast in my daily life. I am a quick learner with a strong self-learning attitude. I enjoy exploring new technologies and am passionate about problem-solving. I love web development, cybersecurity, and participating in CTFs during my spare time. My core skills are based on Laravel, and I enjoy building most of my projects with it, as well as performing penetration testing. I am open to any job opportunities that align with my skills and interests.",
   email: 'akbaroktaviadi89@gmail.com',
